@@ -10,7 +10,7 @@
 2. Stwórz jakiekolwiek zmiany
 3. Zapisz, commituj i wychpnij zmianę
 4. W panelu GitHuba stwórz pull request
-5. Dociągnij zmiany z brancha master komendą `git pull origin master`
+5. Dociągnij zmiany z brancha *main* komendą `git pull origin main`
 6. Rozwią konflikt
 7. Zapisz, commituj i wychpnij zmianę
 7. Ponownie, w panelu GitHuba stwórz pull request
