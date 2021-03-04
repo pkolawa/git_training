@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener"
         >
-          Learn React - commit 1
+          Learn React - commit 2
         </a>
       </header>
     </div>
